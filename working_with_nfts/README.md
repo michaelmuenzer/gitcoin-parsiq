@@ -8,6 +8,4 @@ We are using ParsiQL and it's Google sheets export to build a statistic over a l
 
 [Google Sheet with statistics](https://docs.google.com/spreadsheets/d/1aoi3fXvhKlszlOYjMFW1s8ksroyvge7PUjQNqnJ-ibo/edit#gid=0)
 
-Statistics
-
 ![1](https://i.imgur.com/azXc3bo.png)

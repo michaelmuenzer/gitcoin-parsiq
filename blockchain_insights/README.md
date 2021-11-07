@@ -10,7 +10,7 @@ We are using ParsiQL and it's Google sheets export to build a statistic over a l
 
 ## Statistics
 ### Breeds / day
-Understand how actively used the game is and if it is worth putting your Sire on the marketplace.
+Understand how active user of Cryptokitties are and if is and if it is worth putting your Sire on the marketplace.
 ![1](https://i.imgur.com/EZbHjkw.png)
 
 ### Breeder wallet size
